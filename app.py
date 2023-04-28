@@ -35,7 +35,7 @@ print(type(data))
 # print(data[0])
 # print(data[1])
 # print(data[2])
-# print(data[3])
+# print(data[3]) from here data is necessary!! above this is crap!!
 # print(data[4])
 # print(data[5])
 # print(data[6])
